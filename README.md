@@ -1,5 +1,5 @@
 # Fintech-casestudy
-### Jordan Dass
+### Jordan Mengjun Rohan Dass
 <br />
 
 # **Unhedged**
