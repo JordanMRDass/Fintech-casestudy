@@ -95,9 +95,16 @@ With 7000+ already on the wait list awaiting the release and the large amount of
 Success is measured by the consistent outperformance of major ETF indexes (benchmarks for performance), for example, percentage points higher than the SPY tracking the S&P500.
 <br /> 
 According to Unhedged, their algorithm has outperformed the index based on backtest, repeating past stock movements.
-There have not been many other companies that specialize in algorithmic trading.
+
+<img src="https://lh4.googleusercontent.com/0ZWgf3GaDToJIT4eVYSV8VZm8Jn4VgLDhWzeqWzkU42NCAuIb6WoDTf3Z3rzL-oc3ykZ74QrG1B7QsgAOroxeelciZoYi2kUeI0h6sYgCrkjseP6rMv6_hMwjpfWP9yij8U7ffbt" alt="Momentum" width="500"/>
+<br /> In the attached picture above, we see a simple momentum strategy (using the crossing of exponential moving averages, as bullish and bearish signs) significantly outperforming the market, shown by an alpha that is greater than 0, while being less sensitive to market movements, seen by beta lower than 1.
+<br /> Unhedged with a more complex momentum strategy taking into account the velocity of the momentum. Can expect to be equal to or better than the simple strategy.
+<br /> 
+<br /> 
 
 ## Recommendations
+
+With the wide variety of consumers and their respective risk appetites, Unhedged could look into different algorithms for these sets of people. An algorithm with low risk by selecting diversified portfolios would be appealing to the "everyday investor". Many households look to build up capital, rather than chase profits in the present.
 
 ## References
 - https://support.unhedged.com.au/en/article/performance-of-unhedged-mgw29e/
@@ -106,5 +113,7 @@ There have not been many other companies that specialize in algorithmic trading.
 - https://www.crunchbase.com/organization/unhedged
 <br />Unhedged equity crowdfunding
 - https://www.smartcompany.com.au/startupsmart/news/unhedged-1-7-million-equity-crowdfunding-democratising-share-trading/
+<br />Momentum strategies performance agaisnt the benchmark
+- https://blog.quantinsti.com/momentum-trading-strategies/
 
 
