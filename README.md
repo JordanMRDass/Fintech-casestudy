@@ -98,7 +98,7 @@ According to Unhedged, their algorithm has outperformed the index based on backt
 
 <img src="https://lh4.googleusercontent.com/0ZWgf3GaDToJIT4eVYSV8VZm8Jn4VgLDhWzeqWzkU42NCAuIb6WoDTf3Z3rzL-oc3ykZ74QrG1B7QsgAOroxeelciZoYi2kUeI0h6sYgCrkjseP6rMv6_hMwjpfWP9yij8U7ffbt" alt="Momentum" width="500"/>
 <br /> In the attached picture above, we see a simple momentum strategy (using the crossing of exponential moving averages, as bullish and bearish signs) significantly outperforming the market, shown by an alpha that is greater than 0, while being less sensitive to market movements, seen by beta lower than 1.
-<br /> Unhedged with a more complex momentum strategy taking into account the velocity of the momentum. Can expect to be equal to or better than the simple strategy.
+<br /> Unhedged with a more complex momentum strategy taking into account the velocity of the momentum, unhedged should expect to be equal to or outperform the simple strategy.
 <br /> 
 <br /> 
 
