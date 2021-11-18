@@ -104,15 +104,30 @@ According to Unhedged, their algorithm has outperformed the index based on backt
 
 ## Recommendations
 
-With the wide variety of consumers and their respective risk appetites, Unhedged could look into different algorithms for these sets of people. An algorithm with low risk by selecting diversified portfolios would be appealing to the "everyday investor". Many households look to build up capital, rather than chase profits in the present.
+### Variety of Algorithms
+With the wide variety of consumers and their respective risk appetites, Unhedged could look into different algorithms for these sets of people. An algorithm with low risk by selecting diversified portfolios would be appealing to the "everyday investor". Many households look to build up capital, rather than chase profits in the present. This requires the use of a different set of algorithms powering machine learning to allocate stocks accordingly.
+
+### Robo-advisor
+<p align="center">
+    <img src="https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2018/11/investorjunkie-robo-advisors-4-1-421x200.jpg" alt="Momentum" width="400"/>
+
+<br /> Unhedged could also look to implement robo-advisors to help clear up certain questions customers may have concerning algorithms used or the fees system. Machine learning and AI could also be utilized in robo-advisors to screen stocks for customers to potentially add to momentum portfolios. This satisfies customers' need for control over their money making their own selections.
+<br /> 
 
 ## References
+
+<br /> Unhedged performance
 - https://support.unhedged.com.au/en/article/performance-of-unhedged-mgw29e/
+
+<br />Unhedged Algorithms
 - https://unhedged.com.au/algorithms-at-unhedged/
+
 <br />Unhedged Total funding
 - https://www.crunchbase.com/organization/unhedged
+
 <br />Unhedged equity crowdfunding
 - https://www.smartcompany.com.au/startupsmart/news/unhedged-1-7-million-equity-crowdfunding-democratising-share-trading/
+
 <br />Momentum strategies performance agaisnt the benchmark
 - https://blog.quantinsti.com/momentum-trading-strategies/
 
